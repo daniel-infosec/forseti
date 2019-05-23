@@ -21,7 +21,7 @@
 #       - type: organization
 #         applies_to: children
 #         resource_ids:
-#           - {ORGANIZATION_ID}
+#           - 35742745278
 #     sink:
 #       destination: 'bigquery.googleapis.com/*'
 #       filter: 'logName:"logs/cloudaudit.googleapis.com"'
@@ -32,7 +32,7 @@
 #      - type: organization
 #        applies_to: children
 #        resource_ids:
-#          - {ORGANIZATION_ID}
+#          - 35742745278
 #    sink:
 #      destination: 'bigquery.googleapis.com/*'
 #      filter: 'logName:"logs/cloudaudit.googleapis.com"'
@@ -43,7 +43,7 @@
 #       - type: organization
 #         applies_to: self
 #         resource_ids:
-#           - {ORGANIZATION_ID}
+#           - 35742745278
 #     sink:
 #       destination: '*'
 #       filter: '*'

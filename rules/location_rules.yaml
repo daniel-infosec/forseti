@@ -37,7 +37,7 @@
 #     resource:
 #       - type: organization
 #         resource_ids:
-#           - {ORGANIZATION_ID}
+#           - 35742745278
 #     applies_to:
 #       - type: 'bucket'
 #         resource_ids:
@@ -49,7 +49,7 @@
 #     resource:
 #       - type: organization
 #         resource_ids:
-#           - {ORGANIZATION_ID}
+#           - 35742745278
 #     applies_to:
 #       - type: 'bucket'
 #         resource_ids:

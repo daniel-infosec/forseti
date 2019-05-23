@@ -22,7 +22,7 @@ rules:
     resource:
       - type: organization
         resource_ids:
-          - {ORGANIZATION_ID}
+          - 35742745278
   - name: Cloud SQL rule to search for publicly exposed instances (SSL enabled)
     instance_name: '*'
     authorized_networks: '0.0.0.0/0'
@@ -30,5 +30,5 @@ rules:
     resource:
       - type: organization
         resource_ids:
-          - {ORGANIZATION_ID}
+          - 35742745278
 

@@ -1,0 +1,377 @@
+{
+  "isSuccess": true, 
+  "errorMessage": ""
+}
+{u'model': u'32b86c1bcd42896747829fd6e835506a', u'endpoint': u'localhost:50051', u'format': 'json'}
+{
+  "result": "Purge is disabled.  Nothing will be purged."
+}
+Running Forseti inventory.
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "project/daniel-forseti-2", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "cloudsqlinstance/9954064912994842049", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "disk/7295542428831440143", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "disk/8753619452853607433", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "firewall/8191700021000395508", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "firewall/7802818074109402564", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "instance/576747486505983247", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "instance/1834563938000952329", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "network/3262676134840098762", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "compute_project/5906028407296744979", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/8787870670282940352", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/738114772230856671", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/5329088366707859423", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/5592050032917995456", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/4679888426236501952", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/8100945115768020928", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/3708594783565504448", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/8713839603197009856", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/7114078729135579073", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/2776598296356577216", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "subnetwork/3028171538953789376", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "serviceaccount/100494802068310804649", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "serviceaccount/112591001159413399986", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "serviceaccount/116186393677451402842", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "bucket/forseti-cai-export-e385140", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "bucket/forseti-client-e385140", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "bucket/forseti-server-e385140", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "bucket/pubbucketfortestingtheforseti", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+{
+  "errors": 0, 
+  "warnings": 0, 
+  "step": "bucket/pubbucketfortestingtheforseti", 
+  "finalMessage": false, 
+  "lastError": "", 
+  "id": "1558493038453180", 
+  "lastWarning": ""
+}
+Finished running Forseti inventory.
+Using model 20190522T024357 to run scanner
+Forseti config: {u'model': u'ce16cb71d6993c32ca2ffbea1015e281', u'endpoint': u'localhost:50051', u'format': u'json'}
+Running Forseti scanner.
+Finished running Forseti scanner.
+Running Forseti notifier.
+{
+  "serverMessage": "Retrieved 3 violations for resource 'audit_logging_violations'"
+}
+{
+  "serverMessage": "Retrieved 1 violations for resource 'iam_policy_violations'"
+}
+{
+  "serverMessage": "Running 'email_violations' notifier for resource 'iam_policy_violations'"
+}
+{
+  "serverMessage": "Running 'gcs_violations' notifier for resource 'iam_policy_violations'"
+}
+{
+  "serverMessage": "Running 'slack_webhook' notifier for resource 'iam_policy_violations'"
+}
+{
+  "serverMessage": "Running 'email_violations' notifier for resource 'audit_logging_violations'"
+}
+{
+  "serverMessage": "Running 'gcs_violations' notifier for resource 'audit_logging_violations'"
+}
+{
+  "serverMessage": "Resource 'blacklist_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'bigquery_acl_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'buckets_acl_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'cloudsql_acl_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'config_validator_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'enabled_apis_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'firewall_rule_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'forwarding_rule_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'groups_settings_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'ke_version_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'ke_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'kms_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'groups_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'instance_network_interface_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'iap_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'lien_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'location_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'log_sink_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'resource_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'service_account_key_violations' has no violations"
+}
+{
+  "serverMessage": "Resource 'external_project_access_violations' has no violations"
+}
+{
+  "serverMessage": "Notification completed!"
+}
+Finished running Forseti notifier.
+Cleaning up model tables
+{
+  "status": "SUCCESS"
+}

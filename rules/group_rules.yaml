@@ -17,7 +17,7 @@
   mode: whitelist
   conditions:
       # Must use quotes if the condition starts with @ symbol.
-    - member_email: "@{DOMAIN}"
+    - member_email: "@kestenbroughton.net"
     - member_email: "@gmail.com"
     # GCP Service Accounts
     # https://cloud.google.com/compute/docs/access/service-accounts

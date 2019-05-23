@@ -1583,6 +1583,7 @@ class ApiClientImpl(ApiClient):
                 and asset metadata that defaults to None for all GCP clients.
         """
         for subnetwork in self.compute.get_subnetworks(project_number):
+            print("omg subnetwork!")
             yield subnetwork, None
 
     def iter_compute_targethttpproxies(self, project_number):
