@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-- name: Allow my company users and gmail users to be in my company groups.
+- name: Allow only my company users to be in my company groups.
   group_email: my_customer
   mode: whitelist
   conditions:
