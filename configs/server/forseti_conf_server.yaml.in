@@ -250,6 +250,8 @@ scanner:
           enabled: true
         - name: service_account_key
           enabled: true
+        - name: subnetwork
+          enabled: true
 
 ##############################################################################
 
@@ -528,6 +530,18 @@ notifier:
                 gcs_path: gs://{FORSETI_BUCKET}/scanner_violations
 
         - resource: service_account_key_violations
+          should_notify: true
+          notifiers:
+            # Email violations
+            - name: email_violations
+            # Upload violations to GCS.
+            - name: gcs_violations
+              configuration:
+                data_format: csv
+                # gcs_path should begin with "gs://"
+                gcs_path: gs://{FORSETI_BUCKET}/scanner_violations
+                
+        - resource: subnetwork_violations
           should_notify: true
           notifiers:
             # Email violations
