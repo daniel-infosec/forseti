@@ -56,5 +56,5 @@ resources:
     # See https://github.com/GoogleCloudPlatform/forseti-security/releases
     # for a list of releases.
     forseti-version: {FORSETI_VERSION}
-    src-path: https://github.com/GoogleCloudPlatform/forseti-security
+    src-path: https://github.com/daniel-infosec/forseti
     # --- end Forseti version
