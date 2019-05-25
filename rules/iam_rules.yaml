@@ -27,8 +27,8 @@ rules:
     bindings:
       - role: roles/resourcemanager.organizationAdmin
         members:
-          - user:*@{DOMAIN}
-          - group:*@{DOMAIN}
+          - user:*@kestenbroughton.net
+          - group:*@kestenbroughton.net
 
   - name: Prevent public users from having access to buckets via IAM
     mode: blacklist
@@ -81,4 +81,4 @@ rules:
   #  bindings:
   #    - role: roles/owner
   #      members:
-  #        - user:*@{DOMAIN}
+  #        - user:*@kestenbroughton.net

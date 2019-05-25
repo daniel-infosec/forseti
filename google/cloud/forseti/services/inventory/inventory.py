@@ -80,6 +80,7 @@ class QueueProgresser(Progress):
         """
 
         self.step = '{}/{}'.format(resource.type(), resource.key())
+        print("resource type: " + resource.type())
         self._notify()
 
     def on_warning(self, warning):

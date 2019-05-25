@@ -20,5 +20,5 @@
 #     resource:
 #       - type: organization
 #         resource_ids:
-#           - {ORGANIZATION_ID}
+#           - 35742745278
 #     restrictions: [resourcemanager.projects.delete]

@@ -102,6 +102,8 @@ def run(model_name=None,
         inventory_index_id = (
             model_description.get('source_info').get('inventory_index_id'))
         scanner_index_id = init_scanner_index(session, inventory_index_id)
+        print("In scanner builder")
+        LOGGER.info('In scanner builder')
         runnable_scanners = scanner_builder.ScannerBuilder(
             global_configs, scanner_configs, service_config, model_name,
             None, scanner_name).build()

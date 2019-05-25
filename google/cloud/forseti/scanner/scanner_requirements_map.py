@@ -118,4 +118,8 @@ REQUIREMENTS_MAP = {
         {'module_name': 'service_account_key_scanner',
          'class_name': 'ServiceAccountKeyScanner',
          'rules_filename': 'service_account_key_rules.yaml'},
+    'subnetwork':
+        {'module_name': 'subnetwork_scanner',
+         'class_name': 'SubnetworkScanner',
+         'rules_filename': 'subnetwork_rules.yaml'},
 }
